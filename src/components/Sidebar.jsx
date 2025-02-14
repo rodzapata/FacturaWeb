@@ -99,11 +99,6 @@ const linksArray = [
     icon: <AiOutlineUser />,
     to: "/clientes",
   },
-  // {
-  //   label: "ClienteForm",
-  //   icon: <AiOutlineUser />,
-  //   to: "/ClienteForm",
-  // },
   {
     label: "Productos",
     icon: <AiOutlineApartment />,
